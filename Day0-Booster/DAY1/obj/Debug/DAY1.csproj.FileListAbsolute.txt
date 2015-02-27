@@ -1,0 +1,12 @@
+E:\C#\DAY1\DAY1\DAY1\bin\Debug\DAY1.exe.config
+E:\C#\DAY1\DAY1\DAY1\bin\Debug\DAY1.exe
+E:\C#\DAY1\DAY1\DAY1\bin\Debug\DAY1.pdb
+E:\C#\DAY1\DAY1\DAY1\obj\Debug\DAY1.csprojResolveAssemblyReference.cache
+E:\C#\DAY1\DAY1\DAY1\obj\Debug\DAY1.exe
+E:\C#\DAY1\DAY1\DAY1\obj\Debug\DAY1.pdb
+C:\Users\MSU\Desktop\Coding\0Booster\C#\DAY1\DAY1\DAY1\bin\Debug\DAY1.exe.config
+C:\Users\MSU\Desktop\Coding\0Booster\C#\DAY1\DAY1\DAY1\obj\Debug\DAY1.exe
+C:\Users\MSU\Desktop\Coding\0Booster\C#\DAY1\DAY1\DAY1\obj\Debug\DAY1.pdb
+C:\Users\MSU\Desktop\Coding\0Booster\C#\DAY1\DAY1\DAY1\bin\Debug\DAY1.exe
+C:\Users\MSU\Desktop\Coding\0Booster\C#\DAY1\DAY1\DAY1\bin\Debug\DAY1.pdb
+C:\Users\MSU\Desktop\Coding\0Booster\C#\DAY1\DAY1\DAY1\obj\Debug\DAY1.csprojResolveAssemblyReference.cache
